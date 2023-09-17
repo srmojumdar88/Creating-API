@@ -1,0 +1,62 @@
+[
+  {
+    "ID": 11,
+    "Name": "Sony SmartWatch 3",
+    "Brand": "Sony",
+    "Price": "$1999999999"
+  },
+  {
+    "ID": 12,
+    "Name": "LG Watch Sport",
+    "Brand": "LG",
+    "Price": "$349"
+  },
+  {
+    "ID": 13,
+    "Name": "Polar Vantage M",
+    "Brand": "Polar",
+    "Price": "$279"
+  },
+  {
+    "ID": 14,
+    "Name": "Casio Pro Trek Smart WSD-F30",
+    "Brand": "Casio",
+    "Price": "$549"
+  },
+  {
+    "ID": 15,
+    "Name": "Suunto 7",
+    "Brand": "Suunto",
+    "Price": "$499"
+  },
+  {
+    "ID": 16,
+    "Name": "Withings Steel HR Sport",
+    "Brand": "Withings",
+    "Price": "$199"
+  },
+  {
+    "ID": 17,
+    "Name": "Amazfit GTS 3",
+    "Brand": "Amazfit",
+    "Price": "$179"
+  },
+  {
+    "ID": 18,
+    "Name": "Garmin Venu 2",
+    "Brand": "Garmin",
+    "Price": "$399"
+  },
+  {
+    "ID": 19,
+    "Name": "Xiaomi Mi Watch Revolve",
+    "Brand": "Xiaomi",
+    "Price": "$129"
+  },
+  {
+    "ID": 20,
+    "Name": "Fitbit Ionic",
+    "Brand": "Fitbit",
+    "Price": "$249"
+  }
+]
